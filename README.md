@@ -1,4 +1,8 @@
-### Hi there 👋
+ Hi there 👋
+- 🔭 I’m currently working on web3development
+- 🌱 I’m currently learning rust & golang
+- 📫 How to reach me: repo.rajmishra@gmail.com
+- 💬 connect on: linkedin.com/in/rajmishraaaa or twitter.com/rajmishraaaa
 
 <!--
 **rajmishraaaa/rajmishraaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
